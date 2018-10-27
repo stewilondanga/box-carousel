@@ -79,10 +79,9 @@ a:hover {
   color: #999;
 }
 
-/*        .btn.btn-mini {
-            font-size: 0.63rem;
-            }
-
+.btn.btn-mini {
+  font-size: 0.63rem;
+}
 
 /* Carousel Control */
 
