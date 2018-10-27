@@ -62,12 +62,10 @@ a:hover {
   text-transform: uppercase;
 }
 
-/*    .page-header h3 {
-        line-height: 0.88rem;
-        color: #000;
-        }
-
-
+.page-header h3 {
+  line-height: 0.88rem;
+  color: #000;
+}
 
 /* Thumbnail Box */
 
