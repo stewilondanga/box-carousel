@@ -131,12 +131,11 @@ p.right {
   }
 }
 
-/*@media (max-width: 479px) {
-    .caption {
+@media (max-width: 479px) {
+  .caption {
     word-break: break-all;
-    }
+  }
 }
-
 
 /* ADD-ON
 -------------------------------------------------- */
