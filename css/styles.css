@@ -155,7 +155,7 @@ body:after {
   left: 0
 }
 
-/*@media only screen and (min-width:320px) {
+@media only screen and (min-width:320px) {
   body:after {
     content: "320 to 480px";
     background-color: hsla(90, 60%, 40%, 0.7);
@@ -165,14 +165,68 @@ body:after {
   }
 }
 
-/*@media only screen and (min-width:480px){body:after{content:"480 to 768px";background-color:hsla(180,60%,40%,0.7);height:20px;padding-top:0;margin-left:0}}@media only screen and (min-width:768px){body:after{content:"768 to 980px";background-color:hsla(270,60%,40%,0.7);height:20px;padding-top:0;margin-left:0}}@media only screen and (min-width:980px){body:after{content:"980 to 1024px";background-color:hsla(300,60%,40%,0.7);height:20px;padding-top:0;margin-left:0}}@media only screen and (min-width:1024px){body:after{content:"1024 and up";background-color:hsla(360,60%,40%,0.7);height:20px;padding-top:0;margin-left:0}}
+/*@media only screen and (min-width:480px) {
+  body:after {
+    content: "480 to 768px";
+    background-color: hsla(180, 60%, 40%, 0.7);
+    height: 20px;
+    padding-top: 0;
+    margin-left: 0
+  }
+}
 
-::selection { background: #ff5e99; color: #FFFFFF; text-shadow: 0; }
-::-moz-selection { background: #ff5e99; color: #FFFFFF; }
+@media only screen and (min-width:768px) {
+  body:after {
+    content: "768 to 980px";
+    background-color: hsla(270, 60%, 40%, 0.7);
+    height: 20px;
+    padding-top: 0;
+    margin-left: 0
+  }
+}
 
-a, a:focus, a:active, a:hover, object, embed { outline: none; }
-:-moz-any-link:focus { outline: none; }
-input::-moz-focus-inner { border: 0; }
+@media only screen and (min-width:980px) {
+  body:after {
+    content: "980 to 1024px";
+    background-color: hsla(300, 60%, 40%, 0.7);
+    height: 20px;
+    padding-top: 0;
+    margin-left: 0
+  }
+}
+
+@media only screen and (min-width:1024px) {
+  body:after {
+    content: "1024 and up";
+    background-color: hsla(360, 60%, 40%, 0.7);
+    height: 20px;
+    padding-top: 0;
+    margin-left: 0
+  }
+}
+
+::selection {
+  background: #ff5e99;
+  color: #FFFFFF;
+  text-shadow: 0;
+}
+
+::-moz-selection {
+  background: #ff5e99;
+  color: #FFFFFF;
+}
+
+a, a:focus, a:active, a:hover, object, embed {
+  outline: none;
+}
+
+:-moz-any-link:focus {
+  outline: none;
+}
+
+input::-moz-focus-inner {
+  border: 0;
+}
 
 .containers {
   width: 520px;
