@@ -20,9 +20,11 @@ body {
   height: 1.5em;
 }
 
-/*img { max-width:100%; }
+img {
+  max-width: 100%;
+}
 
-a {
+/*a {
 	-webkit-transition: all 150ms ease;
 	-moz-transition: all 150ms ease;
 	-ms-transition: all 150ms ease;
@@ -34,6 +36,7 @@ a {
 
 /*filter: alpha(opacity=50);
 /* IE7 */
+
 /*
 opacity: 0.6;
 text-decoration: none;
