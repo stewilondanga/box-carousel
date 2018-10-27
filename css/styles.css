@@ -115,10 +115,11 @@ a:hover {
   font-size: 0.69rem;
 }
 
-/*    .footer, .footer a {
-        color: #c9e4f7;
-        }
-        p.right  {
+.footer, .footer a {
+  color: #c9e4f7;
+}
+
+/*        p.right  {
             float: right;
             }
 
