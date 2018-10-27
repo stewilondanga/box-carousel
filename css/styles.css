@@ -205,13 +205,13 @@ body:after {
   }
 }
 
-/*::selection {
+::selection {
   background: #ff5e99;
   color: #FFFFFF;
   text-shadow: 0;
 }
 
-::-moz-selection {
+/*::-moz-selection {
   background: #ff5e99;
   color: #FFFFFF;
 }
