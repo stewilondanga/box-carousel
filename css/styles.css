@@ -216,11 +216,11 @@ body:after {
   color: #FFFFFF;
 }
 
-/*a, a:focus, a:active, a:hover, object, embed {
+a, a:focus, a:active, a:hover, object, embed {
   outline: none;
 }
 
-:-moz-any-link:focus {
+/*:-moz-any-link:focus {
   outline: none;
 }
 
