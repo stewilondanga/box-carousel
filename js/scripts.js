@@ -6,10 +6,10 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 // Carousel Auto-Cycle
-  $(document).ready(function() {
-    $('.carousel').carousel({
-      interval: 6000
-    })
+$(document).ready(function() {
+  $('.carousel').carousel({
+    interval: 6000
   });
+});
