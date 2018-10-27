@@ -119,10 +119,9 @@ a:hover {
   color: #c9e4f7;
 }
 
-/*        p.right  {
-            float: right;
-            }
-
+p.right {
+  float: right;
+}
 
 /* Mobile Only */
 
