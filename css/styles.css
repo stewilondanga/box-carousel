@@ -211,12 +211,12 @@ body:after {
   text-shadow: 0;
 }
 
-/*::-moz-selection {
+::-moz-selection {
   background: #ff5e99;
   color: #FFFFFF;
 }
 
-a, a:focus, a:active, a:hover, object, embed {
+/*a, a:focus, a:active, a:hover, object, embed {
   outline: none;
 }
 
