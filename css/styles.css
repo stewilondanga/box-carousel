@@ -220,11 +220,11 @@ a, a:focus, a:active, a:hover, object, embed {
   outline: none;
 }
 
-/*:-moz-any-link:focus {
+:-moz-any-link:focus {
   outline: none;
 }
 
-input::-moz-focus-inner {
+/*input::-moz-focus-inner {
   border: 0;
 }
 
