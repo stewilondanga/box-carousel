@@ -16,12 +16,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-img { max-width:100%; }
+/*img { max-width:100%; }
 
 a {
 	-webkit-transition: all 150ms ease;
