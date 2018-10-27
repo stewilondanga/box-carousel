@@ -107,14 +107,15 @@ a:hover {
 
 /* Footer */
 
-/*.footer {
-    margin: auto;
-    width: 100%;
-    max-width: 960px;
-    display: block;
-    font-size: 0.69rem;
-    }
-    .footer, .footer a {
+.footer {
+  margin: auto;
+  width: 100%;
+  max-width: 960px;
+  display: block;
+  font-size: 0.69rem;
+}
+
+/*    .footer, .footer a {
         color: #c9e4f7;
         }
         p.right  {
