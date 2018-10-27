@@ -185,7 +185,7 @@ body:after {
   }
 }
 
-/*@media only screen and (min-width:980px) {
+@media only screen and (min-width:980px) {
   body:after {
     content: "980 to 1024px";
     background-color: hsla(300, 60%, 40%, 0.7);
@@ -195,7 +195,7 @@ body:after {
   }
 }
 
-@media only screen and (min-width:1024px) {
+/*@media only screen and (min-width:1024px) {
   body:after {
     content: "1024 and up";
     background-color: hsla(360, 60%, 40%, 0.7);
