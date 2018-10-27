@@ -69,11 +69,12 @@ a:hover {
 
 /* Thumbnail Box */
 
-/*.caption h4 {
-    font-size: 1rem;
-    color: #444;
-    }
-    .caption p {
+.caption h4 {
+  font-size: 1rem;
+  color: #444;
+}
+
+/*    .caption p {
         font-size: 0.75rem;
         color: #999;
         }
